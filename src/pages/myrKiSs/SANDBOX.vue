@@ -3,25 +3,25 @@ import { ref } from 'vue'
 
 const allCards = ref([
   {
-    passCode: 'ADMITONE',
+    passCode: 'CLoneME',
     wxrdtype: '',
     localDescription: '',
     uuid: '',
-    image: '/ADMITONE-aee5.png',
+    image: '',
   },
 ])
 </script>
 
 <template>
-  <h1>"cArds OnThA tAble"</h1>
+  <h1>"begIN THA WORKSHOP"</h1>
   <p mt-4 text-sm>
-    The definitive way to see all "installed" cards on a particular MCN (Myriad Central Node). Anywhere within the Myriad EcoSysTem try typing "CARDS" to see your available options :)
+    AL BUILDERS know that the ESSENCE of BUILDING is in DELIVERABLES, so here will be your WORKSHOP for all GUILD PROJECKTS going forward. You will be expected to link each project here for review when ready and in doing so a portfolio of ARTIFACTS will arise... WELLcome 2 THA BAOLG!
   </p>
   <div class="card">
-    <img src="/CARDS-6752_CARD.png">
+    <img src="/SANDBOX-257e_CARD.png">
   </div>
   <p mt-4 text-sm>
-    <span opacity-75>Recently attempts:</span>
+    <span opacity-75>PROJECKT CARDS:</span>
     <ul>
       <li v-for="aCard in allCards" :key="aCard">
         <div>
