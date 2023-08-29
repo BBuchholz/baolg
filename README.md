@@ -16,6 +16,10 @@
 
 > BAOLG requires Node >=14.18
 
+### GitHub Template
+
+[Create a repo from this template on GitHub](https://github.com/BBuchholz/baolg/generate).
+
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
