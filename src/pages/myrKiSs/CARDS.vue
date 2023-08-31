@@ -9,6 +9,20 @@ const allCards = ref([
     uuid: '',
     image: '/ADMITONE-aee5.png',
   },
+  {
+    passCode: 'PINIA',
+    wxrdtype: '',
+    localDescription: '',
+    uuid: '',
+    image: '/Pinia-e9b3_CARD.png',
+  },
+  {
+    passCode: 'QUARTZ',
+    wxrdtype: '',
+    localDescription: '',
+    uuid: '',
+    image: '/QUARTZ-e6a6_CARD.png',
+  },
 ])
 </script>
 
