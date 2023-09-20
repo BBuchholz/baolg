@@ -12,6 +12,20 @@
   </p>
 
   <p class="display">
+    Log Session Work
+    <a
+      href="https://forms.gle/4AExbntNv6cUSwKLA"
+      target="_blank"
+    >
+      BY CLICKING HERE
+    </a>
+  </p>
+
+  <p class="display">
+    NB: This is a document in progress! Anything not having a proper category, log into the comments along with what category you think it should go under and the new options will be added when the submission is processed.
+  </p>
+
+  <p class="display">
     If you are interested in learning more, contact us!
   </p>
 
@@ -42,9 +56,9 @@
 
   <hr>
 
-  <!-- <div class="card">
-    <img src="https://madamadam.s3.us-east-2.amazonaws.com/SYW5-ac89_CARD.png">
-  </div> -->
+  <div class="card">
+    <img src="https://madamadam.s3.us-east-2.amazonaws.com/SESH-6b27_CARD.png">
+  </div>
 </template>
 
 <style>
