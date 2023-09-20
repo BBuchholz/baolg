@@ -1,6 +1,6 @@
 <template>
   <h1 class="display">
-    "SYW5"
+    "SESH"
   </h1>
 
   <p class="display">
