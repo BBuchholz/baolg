@@ -9,6 +9,9 @@ export {}
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
+    MyriadDropDown: typeof import('./components/MyriadDropDown.vue')['default']
+    MyriadDropDownContent: typeof import('./components/MyriadDropDownContent.vue')['default']
+    MyriadDropDownItem: typeof import('./components/MyriadDropDownItem.vue')['default']
     README: typeof import('./components/README.md')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
